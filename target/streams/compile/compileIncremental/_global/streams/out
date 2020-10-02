@@ -1,0 +1,51 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Initial set of included nodes: 
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[info] Compiling 1 Scala source to C:\Users\кинг\Desktop\ayana\sis5\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.3. Compiling...
+[debug] Creating plain compiler interface for 2.13.3.
+[debug]   > Arguments: 
+[debug] 	-nowarn
+[debug] 	-d
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_e5dc40bd
+[debug] 	-bootclasspath
+[debug] 	C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.3\scala-library-2.13.3.jar
+[debug] 	-classpath
+[debug] 	C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\compiler-interface\1.3.5\compiler-interface-1.3.5.jar;C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\google\protobuf\protobuf-java\3.7.0\protobuf-java-3.7.0.jar;C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\util-interface\1.3.0\util-interface-1.3.0.jar;C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\compiler-bridge_2.13\1.3.5\compiler-bridge_2.13-1.3.5-sources.jar;C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.3\scala-compiler-2.13.3.jar;C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.3\scala-reflect-2.13.3.jar;C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.15.0\jline-3.15.0.jar;C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\net\java\dev\jna\jna\5.3.1\jna-5.3.1.jar
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\API.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\Analyzer.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\CallbackGlobal.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\ClassName.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\Command.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\Compat.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\CompilerInterface.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\ConsoleInterface.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\DelegatingReporter.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\Dependency.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\ExtractAPI.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\ExtractUsedNames.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\GlobalHelpers.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\InteractiveConsoleFactory.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\InteractiveConsoleHelper.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\InteractiveConsoleInterface.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\InteractiveConsoleResponse.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\JarUtils.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\JavaUtils.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\LocalToNonLocalClass.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\LocateClassFile.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\Log.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\Message.scala
+[debug] 	C:\Users\F798~1\AppData\Local\Temp\sbt_17f37c0a\xsbt\ScaladocInterface.scala
+[debug]       
+[info]   Compilation completed in 6.809s.
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3
+[debug] [zinc] Running cached compiler 3c8ad8a1 for Scala compiler version 2.13.3
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Users\кинг\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.3\scala-library-2.13.3.jar
+[debug] 	-classpath
+[debug] 	C:\Users\кинг\Desktop\ayana\sis5\target\scala-2.13\classes
+[debug] Scala compilation took 8.8739808 s
+[info] Done compiling.

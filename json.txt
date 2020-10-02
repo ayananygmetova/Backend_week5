@@ -1,0 +1,181 @@
+{
+  "fullName" : "Натрия хлорид 0,9%, 200 мл, фл",
+  "name" : "Натрия хлорид ",
+  "amount" : 2,
+  "price" : 154.0,
+  "totalPrice" : 308.0,
+  "number" : null,
+  "volume" : "200 мл",
+  "weight" : null
+}{
+  "fullName" : "Борный спирт 3%, 20 мл, фл.",
+  "name" : "Борный спирт ",
+  "amount" : 1,
+  "price" : 51.0,
+  "totalPrice" : 51.0,
+  "number" : null,
+  "volume" : "20 мл",
+  "weight" : null
+}{
+  "fullName" : "Шприц 2 мл, 3-х комп. (Bioject)",
+  "name" : "Шприц ",
+  "amount" : 2,
+  "price" : 16.0,
+  "totalPrice" : 32.0,
+  "number" : null,
+  "volume" : "2 мл",
+  "weight" : null
+}{
+  "fullName" : "Система для инфузии Vogt Medical",
+  "name" : "Система для инфузии Vogt Medical",
+  "amount" : 2,
+  "price" : 60.0,
+  "totalPrice" : 120.0,
+  "number" : null,
+  "volume" : null,
+  "weight" : null
+}{
+  "fullName" : "Naturella прокладки Классик макси №8",
+  "name" : "Naturella прокладки Классик макси ",
+  "amount" : 1,
+  "price" : 310.0,
+  "totalPrice" : 310.0,
+  "number" : 8,
+  "volume" : null,
+  "weight" : null
+}{
+  "fullName" : "AURA Ватные диски №150",
+  "name" : "AURA Ватные диски ",
+  "amount" : 1,
+  "price" : 461.0,
+  "totalPrice" : 461.0,
+  "number" : 150,
+  "volume" : null,
+  "weight" : null
+}{
+  "fullName" : "Чистая линия скраб мягкий 50 мл",
+  "name" : "Чистая линия скраб мягкий ",
+  "amount" : 1,
+  "price" : 381.0,
+  "totalPrice" : 381.0,
+  "number" : null,
+  "volume" : "50 мл",
+  "weight" : null
+}{
+  "fullName" : "Чистая линия  скраб очищающийабрикос 50 мл",
+  "name" : "Чистая линия  скраб очищающийабрикос ",
+  "amount" : 1,
+  "price" : 386.0,
+  "totalPrice" : 386.0,
+  "number" : null,
+  "volume" : "50 мл",
+  "weight" : null
+}{
+  "fullName" : "Чистая линия скраб мягкий 50 мл",
+  "name" : "Чистая линия скраб мягкий ",
+  "amount" : 1,
+  "price" : 381.0,
+  "totalPrice" : 381.0,
+  "number" : null,
+  "volume" : "50 мл",
+  "weight" : null
+}{
+  "fullName" : "Carefree салфетки Алоэвоздухопроницаемые №20",
+  "name" : "Carefree салфетки Алоэвоздухопроницаемые ",
+  "amount" : 1,
+  "price" : 414.0,
+  "totalPrice" : 414.0,
+  "number" : 20,
+  "volume" : null,
+  "weight" : null
+}{
+  "fullName" : "Pro Series Шампунь яркий цвет 500мл",
+  "name" : "Pro Series Шампунь яркий цвет ",
+  "amount" : 1,
+  "price" : 841.0,
+  "totalPrice" : 841.0,
+  "number" : null,
+  "volume" : "500мл",
+  "weight" : null
+}{
+  "fullName" : "Pro Series бальзам-ополаскивательдля длител ухода за окрашеннымиволосами Яркий цвет 500мл",
+  "name" : "Pro Series бальзам-ополаскивательдля длител ухода за окрашеннымиволосами Яркий цвет ",
+  "amount" : 1,
+  "price" : 841.0,
+  "totalPrice" : 841.0,
+  "number" : null,
+  "volume" : "500мл",
+  "weight" : null
+}{
+  "fullName" : "Clear шампунь Актив спорт 2в1мужской  400 мл",
+  "name" : "Clear шампунь Актив спорт ",
+  "amount" : 1,
+  "price" : 1200.0,
+  "totalPrice" : 1200.0,
+  "number" : null,
+  "volume" : "400 мл",
+  "weight" : null
+}{
+  "fullName" : "Bio World (HYDRO THERAPY)Мицеллярная вода 5в1, 445мл",
+  "name" : "Bio World (HYDRO THERAPY)Мицеллярная вода ",
+  "amount" : 1,
+  "price" : 1152.0,
+  "totalPrice" : 1152.0,
+  "number" : null,
+  "volume" : "445мл",
+  "weight" : null
+}{
+  "fullName" : "Bio World (HYDRO THERAPY) Гель-муссдля умывания с гиалуроновойкислотой, 250мл",
+  "name" : "Bio World (HYDRO THERAPY) Гель-муссдля умывания с гиалуроновойкислотой",
+  "amount" : 1,
+  "price" : 1152.0,
+  "totalPrice" : 1152.0,
+  "number" : null,
+  "volume" : "250мл",
+  "weight" : null
+}{
+  "fullName" : "[RX]-Натрия хлорид 0,9%, 100 мл, фл.",
+  "name" : "[RX]-Натрия хлорид ",
+  "amount" : 1,
+  "price" : 168.0,
+  "totalPrice" : 168.0,
+  "number" : null,
+  "volume" : "100 мл",
+  "weight" : null
+}{
+  "fullName" : "[RX]-Дисоль р-р 400 мл, фл.",
+  "name" : "[RX]-Дисоль р-р ",
+  "amount" : 1,
+  "price" : 163.0,
+  "totalPrice" : 163.0,
+  "number" : null,
+  "volume" : "400 мл",
+  "weight" : null
+}{
+  "fullName" : "Тагансорбент с иономи серебра №30,пор.",
+  "name" : "Тагансорбент с иономи серебра ",
+  "amount" : 1,
+  "price" : 1526.0,
+  "totalPrice" : 1526.0,
+  "number" : 30,
+  "volume" : null,
+  "weight" : null
+}{
+  "fullName" : "[RX]-Церукал 2%, 2 мл, №10, амп.",
+  "name" : "[RX]-Церукал ",
+  "amount" : 2,
+  "price" : 396.0,
+  "totalPrice" : 792.0,
+  "number" : 10,
+  "volume" : "2 мл",
+  "weight" : null
+}{
+  "fullName" : "[RX]-Андазол 200 мг, №40, табл.",
+  "name" : "[RX]-Андазол ",
+  "amount" : 1,
+  "price" : 7330.0,
+  "totalPrice" : 7330.0,
+  "number" : 40,
+  "volume" : null,
+  "weight" : "200 мг"
+}
