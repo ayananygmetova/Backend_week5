@@ -80,9 +80,10 @@ object Main extends App{
     fSource.close()
     val file_Object = new File("json.txt" )
     val print_Writer = new PrintWriter(file_Object)
-    for (i<-arr) {
-      val json = i.asJson.spaces2
+    for (i<-0 until arr.length) {
+      val json = arr(i).asJson.spaces2
       print_Writer.write(json)
+      if (i!=arr.length-1) print_Writer.write(",")
     }
     print_Writer.close()
   }
