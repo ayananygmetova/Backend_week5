@@ -119,7 +119,7 @@ object Main extends App{
 
     val file_Object = new File("json.txt" )
     val print_Writer = new PrintWriter(file_Object)
-    val receipt = new Receipt(nameOfPharmacy, BINOfPharmacy,VATOfPharmacy.toInt,  numberRec, cachboxOfPharmacy,
+    val receipt = Receipt(nameOfPharmacy, BINOfPharmacy,VATOfPharmacy.toInt,  numberRec, cachboxOfPharmacy,
       changeOfPharmacy.toInt, orderNumRec.toInt, chequeRec, cashierOfPharmacy,  arr.toArray)
     val json = receipt.asJson.spaces2
     print_Writer.write(json)
